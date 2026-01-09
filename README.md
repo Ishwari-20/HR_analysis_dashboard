@@ -11,6 +11,7 @@ Analyzing the dataset of HR information of a company and making dashboard in Pow
 4. Identifying and removing duplicate records by grouping all columns of dataset to maintain consistency.
 <img width="1357" height="835" alt="Screenshot 2026-01-09 132138" src="https://github.com/user-attachments/assets/a58a540c-196b-4757-845e-f8f8ff9f989f" />
 <img width="455" height="775" alt="Screenshot 2026-01-09 132244" src="https://github.com/user-attachments/assets/cc9a1129-f63c-4e05-bd5c-f05bbb15f7cf" />
+
 5. Checking if there are any values that can cause conflicts.
 <img width="432" height="453" alt="Screenshot 2026-01-09 132554" src="https://github.com/user-attachments/assets/393a95ef-d086-4959-b831-57438c2f033a" />
 <img width="878" height="382" alt="Screenshot 2026-01-09 132643" src="https://github.com/user-attachments/assets/03bb06e1-7d15-496e-b478-23bb4f1bf6bd" />
